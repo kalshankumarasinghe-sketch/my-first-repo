@@ -1,8 +1,10 @@
-## What I Learned Today
+<h1 align="center">Hi 👋, I'm Arosha Kalshan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I am currently attending a GitHub workshop.
-Today I learned about: - Version control - crating a repository - The edit-commit -push cycle 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-My GitHub profilr: https://github.com/kalshankumarasinghe
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Hello this is my branch **Arosha - Branch**
